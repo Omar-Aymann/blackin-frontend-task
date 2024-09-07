@@ -23,6 +23,4 @@ This project demonstrates a simple login form with React, styled with SASS, and 
    ```bash
    git clone https://github.com/Yousef767/one-hand-task.git
    cd one-hand-task
-
-   ```bash
    npm install
