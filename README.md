@@ -21,6 +21,6 @@ This project demonstrates a simple login form with React, styled with SASS, and 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Yousef767/one-hand-task.git
-   cd one-hand-task
+   git clone https://github.com/Yousef767/blackin-frontend-task/.git
+   cd blackin-frontend-task
    npm install
